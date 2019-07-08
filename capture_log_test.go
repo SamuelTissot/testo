@@ -2,10 +2,10 @@ package testo_test
 
 import (
 	"fmt"
+	"github.com/SamuelTissot/testo"
 	"log"
 	"strings"
 	"testing"
-	"testo"
 )
 
 func TestCaptureStdout(t *testing.T) {
