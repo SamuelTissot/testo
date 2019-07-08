@@ -1,3 +1,3 @@
-module github/SamuelTissot/testo
+module testo
 
 go 1.12
